@@ -7,6 +7,6 @@
 ## ☘️ Languages 
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=ffbf00)
-![HTML](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=HTML&logoColor=ffbf00)
-![CSS](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=CSS&logoColor=ffbf00)
+![Html](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=html&logoColor=ffbf00)
+![Css](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=css&logoColor=ffbf00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=ffbf00)
