@@ -14,7 +14,7 @@
 
 ### Follow me
 
-![[Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/d2stsGWU)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/d2stsGWU)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://www.instagram.com/radio_pavlo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/radio_pavlo/)
 
