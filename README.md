@@ -6,4 +6,4 @@
 
 ## ☘️ Languages 
 
-![Python](https://img.shields.io/static/v1?label=ojk&message=dsa&color=black?style=for-the-badge&logo=appveyor)
+![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
