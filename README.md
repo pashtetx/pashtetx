@@ -1,9 +1,18 @@
-<div style="text-align: center">
-    <h1>Hello, I'm Pasha! 👋</h1>
+<div>
+    <h1 style="text-align: center">Hello, I'm Pasha! 👋</h1>
 </div>
 
-[![Header](https://github.com/pashtetx/pashtetx/blob/main/assets/header.svg)](https://discord.gg/fRfSKGYxJP)
+[![Header](https://github.com/pashtetx/pashtetx/blob/main/assets/header.svg)
 
+### About me
+
+<a href=""https://t.me/pavelmigainis><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue"></a>
+
+
+Im backend developer from Ukraine, working at @FrontStudios
+
+I like to write code, and create websites, games and more..
+I hate people who pretend to be programmers.
 
 <details>
     <summary><h1>My stack</h1></summary>
@@ -42,11 +51,4 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </details>
-
-
-### Follow me
-
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.gg/d2stsGWU)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://www.instagram.com/radio_pavlo/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/radio_pavlo/)
 
