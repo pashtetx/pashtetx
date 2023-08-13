@@ -2,7 +2,7 @@
     <h1 style="text-align: center">Hello, I'm Pasha! 👋</h1>
 </div>
 
-[![Header](https://github.com/pashtetx/pashtetx/blob/main/assets/header.svg)
+![Header](https://github.com/pashtetx/pashtetx/blob/main/assets/header.svg)
 
 ## About me
 
