@@ -1,8 +1,7 @@
+# Hello! I'm Pasha
+
 [![Header](https://github.com/pashtetx/pashtetx/blob/main/assets/header.svg)](https://discord.gg/fRfSKGYxJP)
 
-
-## 🌱 I'm a beginner Python Programmer.
-a
 
 ### ⌨️ Stack Techonologies 
 
