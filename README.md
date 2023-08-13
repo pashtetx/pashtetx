@@ -4,15 +4,16 @@
 
 [![Header](https://github.com/pashtetx/pashtetx/blob/main/assets/header.svg)
 
-### About me
+## About me
 
-<a href=""https://t.me/pavelmigainis><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=blue"></a>
+<a href="https://t.me/pavelmigainis"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discord.gg/vncN7EaBpc"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
-Im backend developer from Ukraine, working at @FrontStudios
+#### Im backend developer from Ukraine, working at @FrontStudios
 
-I like to write code, and create websites, games and more..
-I hate people who pretend to be programmers.
+#### I like to write code, and create websites, games and more..
+#### I hate people who pretend to be programmers.
 
 <details>
     <summary><h1>My stack</h1></summary>
