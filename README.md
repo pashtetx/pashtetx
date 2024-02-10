@@ -12,10 +12,10 @@
 <a href="https://discord.gg/vncN7EaBpc"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
-Im backend developer from Ukraine
+#### Im backend developer from Ukraine
 
-I like to write code, and create websites, games and more..
-I hate people who pretend to be programmers.
+##### I like to write code, and create websites, games and more..
+##### I hate people who pretend to be programmers.
 
 <details>
     <summary><h1>My stack</h1></summary>
