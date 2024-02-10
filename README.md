@@ -8,7 +8,7 @@
 
 # About me
 
-<a href="https://t.me/pavelmigainis"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/migainis"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://discord.gg/vncN7EaBpc"><img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
