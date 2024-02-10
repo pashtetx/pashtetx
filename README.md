@@ -16,6 +16,9 @@
 
 #### I like to write code, and create websites, games and more.. I hate people who pretend to be programmers.
 
+## My projects
+- <a href="">Pinterest scraper</a>
+
 <details>
     <summary><h1>My stack</h1></summary>
     <h3>Langs<h3>
