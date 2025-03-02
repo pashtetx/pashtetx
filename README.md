@@ -18,6 +18,7 @@
 
 ## My projects
 - <a href="https://github.com/pashtetx/pin-downloader">Pinterest scraper</a>
+- <a href="https://github.com/pashtetx/async-kleinanzeigen-parser-">Kleinanzeigen parser (async)</a>
 
 <details>
     <summary><h1>My stack</h1></summary>
