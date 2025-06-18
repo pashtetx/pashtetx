@@ -18,8 +18,9 @@
 
 ## My projects
 - <a href="https://github.com/pashtetx/pin-downloader">Pinterest scraper</a>
-- <a href="https://github.com/pashtetx/async-kleinanzeigen-parser">Kleinanzeigen parser (async)</a>
+- <a href="https://github.com/pashtetx/async-kleinanzeigen-parser">Kleinanzeigen notifier</a>
 - <a href="https://github.com/pashtetx/nekto.me-spion">Spion NektoMe</a>
+- <a href="https://github.com/pashtetx/arbeitsagentur-notifier">Arbeitsagentur notifier</a>
 
 <details>
     <summary><h1>My stack</h1></summary>
