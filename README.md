@@ -21,6 +21,7 @@
 - <a href="https://github.com/pashtetx/async-kleinanzeigen-parser">Kleinanzeigen notifier</a>
 - <a href="https://github.com/pashtetx/nekto.me-spion">Spion NektoMe</a>
 - <a href="https://github.com/pashtetx/arbeitsagentur-notifier">Arbeitsagentur notifier</a>
+- <a href="https://github.com/pashtetx/mdiscord">MDiscord - automatic change custom status in discord</a>
 
 <details>
     <summary><h1>My stack</h1></summary>
