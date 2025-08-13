@@ -5,7 +5,7 @@
 </div>
 
 ## Who I am?
-I'm the best programmer in this world!
+I'm the best programmer in this world
 
 ## My projects
 - <a href="https://github.com/pashtetx/nekto.me-spion">Spion NektoMe</a>
@@ -15,8 +15,7 @@ I'm the best programmer in this world!
 - <a href="https://github.com/pashtetx/async-kleinanzeigen-parser">Kleinanzeigen notifier</a>
 
 ## My Social
-<a href="https://t.me/migainis"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://t.me/progerfromselo"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/+ESHNRLki3qlkODQy"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
 
