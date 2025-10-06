@@ -15,7 +15,7 @@ I'm the best programmer in this world
 - <a href="https://github.com/pashtetx/pin-downloader">🖼️ Pinterest scraper</a>
 
 ## My Social
-<a href="https://t.me/+ESHNRLki3qlkODQy"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/+7mssMgwjj4tkYTRi"><img src="https://img.shields.io/badge/TG Channel-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
 
